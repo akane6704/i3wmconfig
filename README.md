@@ -2,5 +2,5 @@
 My i3wm configuration
 
 How it looks like
-(Image 1)[idk.png]
-(Image 2)[idk2.png]
+![](idk.png)
+![](idk2.png)
